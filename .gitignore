@@ -1,0 +1,8 @@
+"# Ignore common temporary files and data" 
+"*.csv" 
+"*.zip" 
+"__pycache__/" 
+".ipynb_checkpoints/" 
+"*.env" 
+"venv/" 
+".DS_Store" 
